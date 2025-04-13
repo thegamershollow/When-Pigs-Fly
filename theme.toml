@@ -9,18 +9,8 @@ homepage = 'https://github.com/thegamershollow/When-Pigs-Fly'
 # Taxonomy terms
 tags = ['blog', 'wordpress', 'custom']
 
-# If the theme has multiple authors
-authors = [
-  {name = 'Ethan', homepage = 'http://thegamershollow.github.io/'}
-]
 
-# If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
+  name = 'TheGamersHollow'
+  homepage = 'http://thegamershollow.space/'
 
-# If porting an existing theme
-[original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
-  repo = 'https://github.com/owner/repo'
