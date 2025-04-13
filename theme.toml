@@ -1,22 +1,17 @@
 name = 'Theme name'
 license = 'MIT'
-licenselink = 'https://github.com/owner/repo/LICENSE'
+licenselink = 'https://github.com/thegamershollow/When-Pigs-Fly/LICENSE'
 description = 'Theme description'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
-
-# If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
+homepage = 'https://github.com/thegamershollow/When-Pigs-Fly'
 
 # Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
+tags = ['blog', 'wordpress', 'custom']
 
 # If the theme has multiple authors
 authors = [
-  {name = 'Name of author', homepage = 'Website of author'},
-  {name = 'Name of author', homepage = 'Website of author'}
+  {name = 'Ethan', homepage = 'http://thegamershollow.github.io/'}
 ]
 
 # If the theme has a single author
