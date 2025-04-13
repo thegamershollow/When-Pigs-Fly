@@ -1,7 +1,3 @@
-# Theme Name
+# When Pigs Fly
 
-## Features
-
-## Installation
-
-## Configuration
+a custom hugo theme for my dad's blog
