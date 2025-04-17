@@ -1,3 +1,3 @@
 # When Pigs Fly
 
-a custom hugo theme for my dad's blog
+A custom Hugo theme for my dad's blog
